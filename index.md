@@ -1,7 +1,5 @@
 ---
-title: "I-Chin Chen 陳怡今"
-author: "I-Chin Chen"
-description: "Department of Information Management and Finance, NYCU"
+
 theme: jekyll-theme-cayman  # Change theme if needed
 ---
 
